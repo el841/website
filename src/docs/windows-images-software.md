@@ -1,4 +1,4 @@
----
+---soft2i
 layout: docs
 title: Software pre-installed on Windows build VMs
 ---
